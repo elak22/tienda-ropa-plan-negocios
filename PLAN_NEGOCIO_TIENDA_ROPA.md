@@ -1,135 +1,149 @@
-# Plan de Negocio Completo: Tienda de Ropa
+# Plan de Negocio Completo: Tienda de Ropa Deportiva y de Gimnasio
 
 ## 1. Resumen ejecutivo
 
-Este documento presenta un plan integral para la apertura de una tienda de ropa en una zona comercial con alta afluencia peatonal. El proyecto está basado en una propuesta de valor clara: ofrecer prendas modernas, accesibles y con buena atención al cliente, mediante una estrategia de venta directa, merchandising atractivo y gestión eficiente de costos.
+Este documento presenta un plan integral para la apertura de una tienda especializada en ropa deportiva y de gimnasio. El proyecto se enfoca en atender a un segmento con alta demanda: personas que practican ejercicio, entrenan en gimnasios, participan en actividades deportivas y buscan prendas con estilo, comodidad, calidad y un buen precio.
 
-La tienda se ubicará en una zona estratégica, con un modelo de negocio que combina ventas presenciales y digitalización básica de la operación. El plan incluye el cronograma de ejecución, estructura de costos, punto de equilibrio, proyecciones de ingresos, beneficios netos, flujo de caja y criterios de evaluación financiera.
+La propuesta está orientada a ofrecer productos funcionales para entrenamiento, estilo de vida activo y uso casual. El negocio combinará una tienda física con ventas por redes sociales, WhatsApp, catálogo digital y estrategia de marca enfocada en comunidad fitness.
+
+El plan incluye la fase de preinversión, inversión, operación, análisis de mercado, estructura de costos, punto de equilibrio, proyecciones de ventas, beneficios netos, flujo de caja, cronograma de ejecución y evaluación financiera.
 
 ## 2. Datos generales del proyecto
 
-- Nombre del proyecto: Moda Viva Boutique
-- Tipo de negocio: tienda minorista de ropa para mujeres y hombres
-- Ubicación: distrito comercial con alta movilidad y flujo peatonal
-- Superficie estimada: 45 m²
-- Modelo operativo: tienda física + redes sociales + WhatsApp + catálogo digital
-- Segmento objetivo: jóvenes y adultos de clase media, entre 18 y 45 años
-- Periodo estimado de análisis: 36 meses
+- Nombre del proyecto: FitStyle Sportwear
+- Tipo de negocio: tienda minorista de ropa deportiva y de gimnasio
+- Ubicación: zona comercial con alta afluencia, cerca de gimnasios, parques y universidades
+- Superficie estimada: 40 a 50 m²
+- Modelo operativo: tienda física + redes sociales + WhatsApp Business + delivery local
+- Segmento objetivo: hombres y mujeres de 18 a 45 años, estudiantes, profesionales y personas con estilo de vida activo
+- Periodo de análisis: 36 meses
 
-## 3. Objetivos del proyecto
+## 3. Objetivo del proyecto
 
 ### 3.1 Objetivo general
-Establecer una boutique de ropa rentable, sostenible y diferenciada, que genere valor para los inversionistas y un servicio de calidad para los clientes.
+Crear una tienda de ropa deportiva rentable y reconocida localmente, que ofrezca productos de calidad, buen servicio al cliente y una experiencia de compra alineada con la cultura fitness.
 
 ### 3.2 Objetivos específicos
-- Alcanzar una participación de mercado local en 24 a 36 meses.
-- Generar flujo de caja positivo desde el quinto mes de operación.
-- Mantener una rentabilidad operativa sostenible.
-- Establecer una imagen de marca confiable y moderna.
-- Organizar la operación con procedimientos claros y control de costos.
+- Atender una demanda real de ropa deportiva en la zona.
+- Establecer una marca reconocida por calidad y estilo.
+- Lograr ventas sostenidas en 12, 24 y 36 meses.
+- Mantener un margen operativo positivo y flujo de caja saludable.
+- Posicionar la tienda como opción preferida para entrenar y vestir de forma funcional.
 
 ## 4. Descripción del negocio
 
-La boutique ofrecerá ropa casual, trendy y básica, con un enfoque en variedad, buen servicio y precio accesible. La propuesta incluirá colecciones por temporada, atención personalizada, promociones y presencia digital para fortalecer ventas y lealtad.
+La tienda ofrecerá ropa deportiva para entrenamiento, crossfit, cardio, yoga, running y uso casual. El portafolio incluirá leggings, tops, camisetas, shorts, mallas, hoodies, bomber, gorras, mochilas y accesorios para gimnasio.
+
+Además, la propuesta de valor se basará en:
+- prendas cómodas y funcionales,
+- materiales transpirables y de buena calidad,
+- diseños modernos y actuales,
+- atención personalizada,
+- precios competitivos,
+- marketing digital con enfoque en fitness y estilo de vida.
 
 ## 5. Fases del ciclo de vida del proyecto
 
 ### 5.1 Preinversión
-- Definición de la idea de negocio.
-- Estudio de mercado.
-- Identificación de la competencia.
-- Evaluación preliminar de costos e inversión.
-- Validación de demanda y segmentación.
+- Identificación de la necesidad del mercado.
+- Estudio de consumidores fitness y compradores de ropa deportiva.
+- Evaluación de competencia directa e indirecta.
+- Análisis preliminar de costos, rentabilidad y ubicación.
+- Validación del modelo de ventas.
 
 ### 5.2 Inversión
-- Compra del local o arrendamiento.
-- Adecuación del espacio.
-- Compra de mobiliario y equipos.
-- Compra de inventario inicial.
-- Implementación operativa.
-- Contratación y capacitación.
+- Arrendamiento o alquiler del local.
+- Adecuación del espacio con exhibidores, espejos, estanterías y ambientación.
+- Compra de equipos y materiales de visual merchandising.
+- Compra del inventario inicial.
+- Registro legal, permisos y marca.
+- Campaña de lanzamiento y marketing inicial.
 
 ### 5.3 Operación
-- Apertura y puesta en marcha.
-- Venta diaria y atención al cliente.
-- Control de stock y ventas.
-- Gestión de costos y flujo de caja.
-- Optimización de mercadería y promociones.
+- Apertura de la tienda.
+- Atención al cliente y asesoramiento de prendas.
+- Gestión de inventario y rotación de productos.
+- Venta y seguimiento por redes sociales.
+- Evaluación de ventas, flujo de caja y rentabilidad.
 
 ## 6. Estudio de mercado
 
 ### 6.1 Demanda
-Se estima que la zona cuenta con un volumen significativo de personas que requieren prendas de uso cotidiano, trabajo y casual. La demanda se ve favorecida por el crecimiento de consumo local, la presencia de estudiantes, trabajadores y familias.
+La demanda de ropa deportiva ha crecido por varias razones: aumento de la conciencia de salud, mayor participación en actividades físicas, demanda de comodidad y estilo, y crecimiento del mercado fitness. La zona seleccionada presenta flujo de personas de edades jóvenes y adultas que valoran el ejercicio y el bienestar.
 
 ### 6.2 Oferta
-La competencia está conformada por tiendas locales de ropa, bazares, cadenas de moda y tiendas online. La principal diferencia será la combinación de precio, calidad, estilo y atención personalizada.
+La competencia incluye tiendas de deporte, cadenas de ropa urbana, boutiques especializadas y mercados online. Sin embargo, muchas tiendas no logran combinar la relación precio-calidad-estilo con un excelente servicio y una experiencia enfocada en atletas y amantes del gym.
 
 ### 6.3 Demanda insatisfecha
-Existe una brecha para una tienda que ofrezca un equilibrio entre precio y estilo; muchas opciones del mercado priorizan una categoría u otra, pero pocas combinan buen servicio, variedad y precios competitivos.
+Existe una brecha en el mercado para una marca que ofrezca:
+- ropa deportiva moderna y de buena calidad,
+- variedad por tallas y estilos,
+- precios accesibles,
+- una atención más cercana y personalizada,
+- buena presencia digital y posicionamiento local.
 
 ### 6.4 Estrategia comercial
-- Producto: ropa casual, básica, sport y trendy.
-- Precio: rango de S/ 39 a S/ 149.
-- Plaza: local físico en zona comercial y ventas por redes.
-- Promoción: redes sociales, descuentos por temporada, combos, promociones por volumen.
-- Atención: servicio cercano, asesoramiento y atención directa.
+- Producto: ropa de entrenamiento, fitness, casual sport y accesorios.
+- Precio: rango de S/ 49 a S/ 219.
+- Plaza: local físico + redes sociales + WhatsApp.
+- Promoción: packs de inicio, promociones por temporada, descuentos por volumen, marketing con influencers locales.
+- Atención: asesoramiento, lookbook de prendas, entrega local y servicio cercano.
 
 ## 7. Estudio técnico, legal y organizacional
 
 ### 7.1 Tamaño y localización
 - Superficie: 45 m²
-- Ubicación: zona comercial con alta circulación
-- Horario de atención: 10:00 a 20:00 de lunes a domingo
-- Capacidad estimada: 20 a 30 clientes diarios
+- Ubicación: zona comercial cercana a gimnasios, universidades y áreas de alto tráfico peatonal
+- Horario: 10:00 a 20:00, de lunes a domingo
+- Capacidad estimada: 15 a 25 clientes diarios
 
 ### 7.2 Ingeniería del proceso
 - Recepción de mercadería.
-- Organización por categorías.
-- Etiquetado y exhibición.
-- Atención al cliente.
-- Venta y cobro.
-- Cierre de caja y control de inventario.
+- Etiquetado y control de inventario.
+- Organización por categorías: women, men, accesorios, performance.
+- Exhibición visual y merchandising.
+- Atención al cliente y cobro.
+- Gestión de devoluciones y seguimiento de ventas.
 
 ### 7.3 Estructura legal
 - Registro del negocio.
-- Permisos municipales y sanitarios.
-- Licencias y tributos.
+- Permisos municipales y recomendados por la actividad comercial.
 - Contrato de arrendamiento.
-- Registro de marca, si aplica.
+- Declaración de impuestos y obligaciones tributarias.
+- Marcas, logotipo y protecciones legales si aplica.
 
-### 7.4 Organización propuesta
+### 7.4 Estructura organizacional propuesta
 
 | Cargo | Función | Personal |
 |---|---|---:|
-| Gerente general | Dirección y estrategia | 1 |
-| Vendedor / atención al cliente | Venta y servicio | 2 |
-| Encargado de inventario | Control de stock y compras | 1 |
+| Gerente general | Dirección, estrategia y decisiones | 1 |
+| Vendedor / atención al cliente | Venta y asesoría | 2 |
+| Encargado de inventario | Compra, stock y control de mercadería | 1 |
 | Contador externo | Gestión contable y fiscal | 1 |
-| Personal de limpieza | Orden y mantenimiento | 1 |
+| Personal de limpieza y apoyo | Orden y mantenimiento del local | 1 |
 
 ## 8. Inversión inicial estimada
 
 | Concepto | Monto (S/) |
 |---|---:|
-| Arrendamiento y garantía | 10,000 |
-| Adecuación del local | 12,000 |
-| Mobiliario y exhibidores | 8,500 |
-| Equipos de venta | 6,000 |
-| Sistema de caja / software | 2,500 |
-| Señalización y branding | 3,000 |
-| Inventario inicial | 20,000 |
-| Marketing de lanzamiento | 5,000 |
-| Permisos y legales | 2,500 |
-| Capital de trabajo inicial | 8,000 |
-| Total inversión inicial | 77,500 |
+| Arrendamiento y garantía | 12,000 |
+| Adecuación del local | 16,000 |
+| Mobiliario y exhibidores | 10,000 |
+| Equipos y sistema de caja | 6,500 |
+| Señalización y branding | 4,500 |
+| Inventario inicial | 32,000 |
+| Marketing de lanzamiento | 7,000 |
+| Permisos y trámites | 3,000 |
+| Capital de trabajo inicial | 9,000 |
+| Total inversión inicial | 100,000 |
 
 ## 9. Estructura de financiamiento
 
 | Fuente | Monto (S/) | % |
 |---|---:|---:|
-| Aporte de socios | 31,000 | 40% |
-| Préstamo bancario | 46,500 | 60% |
-| Total | 77,500 | 100% |
+| Aporte de socios | 40,000 | 40% |
+| Préstamo bancario | 60,000 | 60% |
+| Total | 100,000 | 100% |
 
 ## 10. Costos operativos y estructura de costos
 
@@ -137,32 +151,32 @@ Existe una brecha para una tienda que ofrezca un equilibrio entre precio y estil
 
 | Concepto | Monto mensual (S/) |
 |---|---:|
-| Alquiler | 2,300 |
-| Servicios básicos | 500 |
-| Sueldos del personal | 4,800 |
-| Publicidad y redes | 500 |
-| Mantenimiento y limpieza | 300 |
-| Internet y software | 180 |
-| Seguros y tributos | 450 |
-| Total costos fijos | 9,030 |
+| Alquiler | 3,200 |
+| Sueldos del personal | 6,300 |
+| Servicios básicos | 600 |
+| Internet y software | 220 |
+| Publicidad digital | 650 |
+| Mantenimiento y limpieza | 420 |
+| Seguros y tributos | 500 |
+| Total costos fijos | 11,890 |
 
 ### 10.2 Costos variables
 
-Los costos variables están ligados a la venta y al volumen de mercadería.
+Los costos variables están relacionados con la venta y el volumen de mercadería.
 
 | Concepto | % sobre ventas |
 |---|---:|
-| Costo de mercancía | 60% |
-| Comisiones por venta digital | 4% |
+| Costo de mercadería | 58% |
+| Comisiones y pagos de plataformas | 4% |
 | Empaque y etiquetas | 2% |
-| Transporte y entregas | 3% |
+| Transporte y delivery | 3% |
 | Descuentos y promociones | 5% |
 
 ### 10.3 Precio unitario promedio
 
-- Precio promedio de venta: S/ 89.90
-- Costo promedio de compra: S/ 53.94
-- Margen bruto unitario: S/ 35.96
+- Precio promedio de venta por prenda: S/ 149
+- Costo promedio de compra por prenda: S/ 89.40
+- Margen bruto unitario: S/ 59.60
 - Margen bruto porcentual: 40%
 
 ## 11. Punto de equilibrio
@@ -170,40 +184,40 @@ Los costos variables están ligados a la venta y al volumen de mercadería.
 ### Fórmula
 Punto de equilibrio unitario = Costos fijos / (Precio unitario - costo variable unitario)
 
-- Costos fijos mensuales: S/ 9,030
-- Precio unitario promedio: S/ 89.90
-- Costo variable unitario: S/ 53.94
-- Contribución marginal por unidad: S/ 35.96
+- Costos fijos mensuales: S/ 11,890
+- Precio unitario promedio: S/ 149
+- Costo variable unitario aprox.: S/ 89.40
+- Contribución marginal por unidad: S/ 59.60
 
 Cálculo:
 
-9,030 / 35.96 = 251 unidades aproximadamente
+11,890 / 59.60 = 199.5 unidades aproximadamente
 
 ### Resultado
-Se requieren aproximadamente 251 prendas mensuales para cubrir todos los costos fijos y variables.
+Se requieren alrededor de 200 prendas al mes para cubrir todos los costos fijo y variables.
 
 En valor de venta:
 
-251 x 89.90 = S/ 22,574.90
+200 x 149 = S/ 29,800
 
-Esto significa que, con ventas mensuales de alrededor de S/ 22,575, la tienda llega al punto de equilibrio.
+Esto significa que, con ventas mensuales aproximadas de S/ 29,800, la tienda llega al punto de equilibrio.
 
 ## 12. Proyección de ventas
 
 ### Supuestos base
-- Clientes por mes: 1,400
-- Ticket promedio: S/ 89.90
-- Unidades promedio mensuales: 350
-- Ingreso mensual estimado: 31,465
-- Crecimiento anual estimado: 12% en ventas
+- Clientes por mes: 1,500 a 1,700
+- Ticket promedio: S/ 149
+- Unidades promedio mensuales: 230 a 280
+- Ingreso mensual estimado: S/ 34,270 a S/ 41,720
+- Crecimiento anual estimado: 12% a 15%
 
 ### Proyección anual
 
 | Año | Ventas estimadas (S/) |
 |---|---:|
-| Año 1 | 377,580 |
-| Año 2 | 422,650 |
-| Año 3 | 473,368 |
+| Año 1 | 420,000 |
+| Año 2 | 500,000 |
+| Año 3 | 590,000 |
 
 ## 13. Estado de resultados proyectado
 
@@ -211,144 +225,145 @@ Esto significa que, con ventas mensuales de alrededor de S/ 22,575, la tienda ll
 
 | Concepto | Monto (S/) |
 |---|---:|
-| Ingresos por ventas | 377,580 |
-| Costo de ventas (60%) | 226,548 |
-| Utilidad bruta | 151,032 |
-| Costos fijos | 108,360 |
-| Utilidad operativa antes de impuestos | 42,672 |
-| Impuesto (29.5%) | 12,588 |
-| Utilidad neta | 30,084 |
+| Ingresos por ventas | 420,000 |
+| Costo de ventas (58%) | 243,600 |
+| Utilidad bruta | 176,400 |
+| Costos fijos | 142,680 |
+| Utilidad operativa antes de impuestos | 33,720 |
+| Impuesto (29.5%) | 9,944 |
+| Utilidad neta | 23,776 |
 
 ### 13.2 Año 2
 
 | Concepto | Monto (S/) |
 |---|---:|
-| Ingresos por ventas | 422,650 |
-| Costo de ventas (60%) | 253,590 |
-| Utilidad bruta | 169,060 |
-| Costos fijos | 112,500 |
-| Utilidad operativa antes de impuestos | 56,560 |
-| Impuesto (29.5%) | 16,685 |
-| Utilidad neta | 39,875 |
+| Ingresos por ventas | 500,000 |
+| Costo de ventas (58%) | 290,000 |
+| Utilidad bruta | 210,000 |
+| Costos fijos | 148,000 |
+| Utilidad operativa antes de impuestos | 62,000 |
+| Impuesto (29.5%) | 18,290 |
+| Utilidad neta | 43,710 |
 
 ### 13.3 Año 3
 
 | Concepto | Monto (S/) |
 |---|---:|
-| Ingresos por ventas | 473,368 |
-| Costo de ventas (60%) | 284,021 |
-| Utilidad bruta | 189,347 |
-| Costos fijos | 117,000 |
-| Utilidad operativa antes de impuestos | 72,347 |
-| Impuesto (29.5%) | 21,342 |
-| Utilidad neta | 51,005 |
+| Ingresos por ventas | 590,000 |
+| Costo de ventas (58%) | 342,200 |
+| Utilidad bruta | 247,800 |
+| Costos fijos | 154,000 |
+| Utilidad operativa antes de impuestos | 93,800 |
+| Impuesto (29.5%) | 27,671 |
+| Utilidad neta | 66,129 |
 
-## 14. Flujos de caja proyectados
+## 14. Flujo de caja proyectado
 
 | Año | Flujo operativo (S/) | Inversión (S/) | Flujo neto (S/) |
 |---|---:|---:|---:|
-| 0 | 0 | -77,500 | -77,500 |
-| 1 | 42,672 | 0 | 42,672 |
-| 2 | 56,560 | 0 | 56,560 |
-| 3 | 72,347 | 0 | 72,347 |
+| 0 | 0 | -100,000 | -100,000 |
+| 1 | 33,720 | 0 | 33,720 |
+| 2 | 62,000 | 0 | 62,000 |
+| 3 | 93,800 | 0 | 93,800 |
 
 ### Interpretación
-- El proyecto tiene capacidad de recuperación de la inversión en aproximadamente 2 años, considerando el flujo neto acumulado.
-- La operación genera rentabilidad sostenida si se mantiene la estructura de costos y las ventas previstas.
+- El proyecto recupera la inversión inicial en aproximadamente 2 años bajo estas proyecciones.
+- La rentabilidad mejora con el crecimiento de la marca, la confianza del cliente y el aumento de ventas por canales digitales.
 
 ## 15. Beneficios netos y rentabilidad
 
 ### 15.1 Beneficio neto anual estimado
-- Año 1: S/ 30,084
-- Año 2: S/ 39,875
-- Año 3: S/ 51,005
+- Año 1: S/ 23,776
+- Año 2: S/ 43,710
+- Año 3: S/ 66,129
 
 ### 15.2 Rentabilidad sobre inversión
 Rentabilidad aproximada = utilidad neta / inversión inicial
 
-- Año 1: 30,084 / 77,500 = 38.8%
-- Año 2: 39,875 / 77,500 = 51.5%
-- Año 3: 51,005 / 77,500 = 65.8%
+- Año 1: 23,776 / 100,000 = 23.8%
+- Año 2: 43,710 / 100,000 = 43.7%
+- Año 3: 66,129 / 100,000 = 66.1%
 
 ## 16. Indicadores de evaluación financiera
 
-### 16.1 VAN
-Se recomienda evaluar con una tasa de descuento del 12% anual. Si el VAN resulta positivo, el proyecto es viable en términos de valor presente.
+### 16.1 Valor Actual Neto (VAN)
+El VAN mide la riqueza adicional generada por el proyecto en términos del valor presente. Con una tasa de descuento de 12%, si el VAN es positivo, el proyecto se considera rentable.
 
-### 16.2 TIR
-Se espera que la TIR supere la tasa de descuento, lo que confirma la rentabilidad del proyecto.
+### 16.2 Tasa Interna de Retorno (TIR)
+La TIR representa la rentabilidad interna del proyecto. Si la TIR supera la tasa de descuento, el proyecto es financieramente atractivo.
 
-### 16.3 Payback
-El tiempo estimado de recuperación es cercano a 2 años, dependiendo del flujo real y la ejecución del plan comercial.
+### 16.3 Periodo de Recuperación (Payback)
+El payback estimado se acerca a 2 años, lo que es viable para un negocio de retail con crecimiento sostenido.
 
 ## 17. Cronograma de ejecución del proyecto
 
 | Mes | Actividad |
 |---|---|
-| 1 | Definición de marca, nombre y concepto |
-| 2 | Estudio final de mercado y localización |
-| 3 | Firma de contrato de arrendamiento |
-| 4 | Permisos y trámites legales |
-| 5 | Renovación y adecuación del local |
-| 6 | Compra de mobiliario y equipos |
-| 7 | Compra de inventario inicial |
-| 8 | Contratación del personal |
-| 9 | Capacitación, instalación y pruebas |
-| 10 | Lanzamiento de campaña promocional |
-| 11 | Apertura de la tienda |
-| 12 | Monitoreo, ajustes y crecimiento |
+| 1 | Definición de marca, concepto y posicionamiento |
+| 2 | Estudio final de mercado y ubicaciones |
+| 3 | Contrato de alquiler y permisos |
+| 4 | Diseño del local y compra de mobiliario |
+| 5 | Adecuación del espacio |
+| 6 | Compra del inventario inicial |
+| 7 | Configuración de caja, sistemas y marca |
+| 8 | Contratación de personal |
+| 9 | Pruebas y ajustes operativos |
+| 10 | Campaña de lanzamiento |
+| 11 | Apertura al público |
+| 12 | Monitoreo de ventas y ajustes |
 
-## 18. Plan de marketing
+## 18. Plan de marketing para ropa deportiva
 
-- Presencia en Instagram y Facebook.
-- Catalogo digital con fotos y promociones.
-- WhatsApp business para atención, cotizaciones y pedidos.
-- Promociones por temporada.
-- Colaboraciones con microinfluencers.
-- Programas de lealtad para clientes frecuentes.
+- Instagram y TikTok con contenido fitness.
+- Reels y videos cortos de prendas en uso.
+- Influencers locales de gym y fitness.
+- Promociones por temporada: verano, pretemporada, cierre de año.
+- Descuentos para clientes frecuentes.
+- Entrevistas o testimonios de clientes y entrenadores.
+- Comunidad fitness con eventos de activación.
 
 ## 19. Matriz de riesgos
 
 | Riesgo | Impacto | Probabilidad | Mitigación |
 |---|---|---|---|
-| Baja demanda | Alto | Media | estudio continuo, promociones y ajustes de stock |
-| Competencia agresiva | Medio | Alta | diferenciación, buena atención y imagen |
-| Incremento del alquiler | Medio | Media | negociación y control presupuestario |
-| Rotación de inventarios | Medio | Media | gestión de tendencias y compras inteligentes |
-| Problemas de flujo de caja | Alto | Media | reserva operativa y control mensual |
+| Baja demanda inicial | Alto | Media | promoción, pricing y adaptación de oferta |
+| Competencia de tiendas grandes | Medio | Alta | diferenciación y experiencia de marca |
+| Rotación lenta de inventario | Medio | Media | seguimiento de colecciones y compras con criterio |
+| Incremento de alquiler | Medio | Media | negociación contractual y control financiero |
+| Problemas de flujo de caja | Alto | Media | reserva operativa y revisión mensual |
 
 ## 20. Estrategia de control y seguimiento
 
-- revisión semanal de ventas y rotación
-- control mensual de costos y gastos
-- análisis mensual de utilidad bruta
-- comparación entre plan y realidad
-- ajuste de precios y promociones según demanda
-- auditoría simple de inventario cada 30 días
+- Revisión semanal de ventas.
+- Control de inventario cada 15 días.
+- Análisis mensual de utilidad bruta y utilidad neta.
+- Monitoreo de costos fijos y variables.
+- Ajuste de precios y promociones según demanda.
+- Seguimiento de canales digitales y rendimiento de campañas.
 
 ## 21. Conclusión
 
-El proyecto de la boutique de ropa es viable desde un enfoque financiero y operativo si se cumplen las proyecciones de demanda, se controla adecuadamente la estructura de costos y se mantiene una estrategia comercial enfocada en la experiencia del cliente. Con una inversión inicial moderada y un modelo de operación ordenado, la tienda puede alcanzar niveles positivos de rentabilidad en el mediano plazo.
+El proyecto de una tienda de ropa deportiva y de gimnasio es viable si el negocio logra combinar una oferta atractiva, un buen posicionamiento local y una gestión financiera ordenada. La combinación de venta física y ventas digitales puede fortalecer la presencia de la marca y mejorar significativamente la rentabilidad.
 
-El siguiente paso es convertir este plan en una versión de presentación o en una hoja de cálculo que permita simular escenarios conservadores, moderados y optimistas.
+Con una inversión inicial moderada, una clara estrategia comercial y un enfoque en calidad, estilo y servicio, la tienda puede posicionarse como una opción sólida dentro del mercado de fitness y moda deportiva.
 
 ## 22. Fórmulas clave para el negocio
 
 - Punto de equilibrio en unidades = costos fijos / (precio - costo variable unitario)
-- Punto de equilibrio en ventas = punto de equilibrio en unidades x precio
+- Punto de equilibrio en ventas = PE unidades x precio
 - Margen bruto = ingresos - costo de ventas
 - Utilidad operativa = margen bruto - costos fijos
 - Utilidad neta = utilidad operativa - impuestos
-- Flujo de caja = ingresos - egresos operativos - inversión
+- Flujo de caja = ingresos - egresos - inversión
 
 ## 23. Recomendaciones finales
 
-- Mantener un control estricto de inventario.
-- Usar promociones con criterio para no destruir margen.
-- Gestionar la cuota de préstamo con prudencia.
-- Evaluar cada trimestre la rentabilidad real.
-- Invertir en branding y atención al cliente para generar lealtad.
+- Mantener un control riguroso del inventario.
+- Priorizar prendas con alta rotación y buena demanda.
+- Reforzar la presencia digital con contenido constante.
+- Mantener el equilibrio entre precio, calidad y volumen de ventas.
+- Revisar trimestralmente la rentabilidad y ajustar la oferta comercial.
 
 ---
 
-Este documento puede ampliarse aún más en una versión de presentación, tesis o cálculo con planilla Excel.
+Este documento puede ampliarse en una versión final para entrega académica, presentación ejecutiva y planilla de cálculo con fórmulas financieras.
